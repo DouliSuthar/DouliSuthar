@@ -1,6 +1,6 @@
 ![logo](https://github.com/DouliSuthar/DouliSuthar/blob/21c85dce0192c769342968ee4e0bf11a022a59a7/GitHub-Banner.png)
 <h1 align="center">Hi 👋, I'm Douli Suthar</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+//<h3 align="center">A passionate Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
