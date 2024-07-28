@@ -1,3 +1,4 @@
+![logo](https://github.com/DouliSuthar/DouliSuthar/blob/e067a850c78acc45c9b4a30e49fdd6e700589db1/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Douli Suthar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
@@ -34,6 +35,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
 </p>
+
+## GSSOC(24) Badges 🪶
+<div align='left'>
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+</div>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
