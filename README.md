@@ -5,6 +5,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/doulisuthar?style=social)
 
 <h4>Code with purpose, impact the world!☕ </h4>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
  
 <br/>
  
@@ -39,7 +40,6 @@
 </div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
 ![GitHub metrics](https://metrics.lecoq.io/doulisuthar)
 
