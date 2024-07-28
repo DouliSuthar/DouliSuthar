@@ -1,39 +1,37 @@
-![logo](https://github.com/DouliSuthar/DouliSuthar/blob/21c85dce0192c769342968ee4e0bf11a022a59a7/GitHub-Banner.png)
-<h1 align="center">Hi 👋, I'm Douli Suthar</h1>
+<strong><h1>Hi 👋, I'm Douli Suthar</h1></strong>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+![](https://komarev.com/ghpvc/?username=doulisuthar&color=red)
+![GitHub followers](https://img.shields.io/github/followers/doulisuthar?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/doulisuthar?style=social)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doulisuthar&label=Profile%20views&color=0e75b6&style=flat" alt="doulisuthar" /> </p>
+<h4>Code with purpose, impact the world!☕ </h4>
+ 
+<br/>
+ 
+## 🧰 Toolbox
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=Matlab&logoColor=00599C)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=00599C)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/doulisuthar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doulisuthar" height="30" width="40" /></a>
-</p>
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/doulisuthar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doulisuthar&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doulisuthar&theme=dark&layout=compact" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-</p>
+### 🔥 GitHub Streak
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=doulisuthar&theme=highcontrast)
+
+### 📈 Github Activity Graph
+[![Douli's github activity graph](https://activity-graph.herokuapp.com/graph?username=doulisuthar&theme=react-dark)](https://github.com/doulisuthar/github-readme-activity-graph)
+
+### 🤝 Connect with me
+<a href="https://www.linkedin.com/in/doulisuthar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"></a>
 
 ## GSSOC(24) Badges 🪶
 <div align='left'>
@@ -43,8 +41,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doulisuthar&show_icons=true&locale=en&layout=compact" alt="doulisuthar" /></p>
+![GitHub metrics](https://metrics.lecoq.io/doulisuthar)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doulisuthar&show_icons=true&locale=en" alt="doulisuthar" /></p>
+<hr>
+<div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> :)</em></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doulisuthar&" alt="doulisuthar" /></p>
+--------
+<div align="center"><strong>Show some ❤️️ by starring⭐ some of the repositories!</strong></div>
