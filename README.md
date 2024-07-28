@@ -5,9 +5,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/doulisuthar?style=social)
 
 <h4>Code with purpose, impact the world!☕ </h4>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
- 
-<br/>
+</br>
  
 ## 🧰 Toolbox
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
@@ -40,8 +38,7 @@
 </div>
 
 <h3 align="left">Support:</h3>
-
-![GitHub metrics](https://metrics.lecoq.io/doulisuthar)
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
 <hr>
 <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> :)</em></div>
